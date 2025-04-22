@@ -1,0 +1,22 @@
+.button {
+
+  background-color: rgb(248, 240, 240);
+  height: 55px;
+  width: 55px;
+  margin: 5px;
+  font-size: 15px;
+  font-weight: 500;
+  border: 1px solid black;
+  border-radius: 5px;
+}
+
+.button:hover {
+
+  cursor: pointer;
+}
+
+.button:active {
+
+  background-color: red;
+
+}
